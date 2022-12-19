@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/InnerCircleA/figma-tokens/issues"
   },
-  "homepage": "https://github.com/InnerCircleA/figma-tokens#readme"
+  "homepage": "https://github.com/InnerCircleA/figma-tokens#readme",
+  "devDependencies": {
+    "style-dictionary": "^3.7.1",
+    "token-transformer": "0.0.28"
+  }
 }
