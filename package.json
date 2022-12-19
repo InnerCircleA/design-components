@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "token-transformer external/design-tokens.json dist/design-tokens.json && style-dictionary build --config ./style-dictionary-config.json"
   },
   "repository": {
     "type": "git",
